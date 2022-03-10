@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e728597b-84c1-4a2c-a660-d314c6ffbb3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SEP3_BusinessLayer/.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_BusinessLayer/src/main/java/ApplicationServer/Controllers/ControllerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3_BusinessLayer/src/main/java/ApplicationServer/Controllers/ControllerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_BusinessLayer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3_BusinessLayer/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/bin/Debug/netcoreapp3.0/WebCoreMVC.NET.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/bin/Debug/netcoreapp3.0/WebCoreMVC.NET.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/bin/Debug/netcoreapp3.0/WebCoreMVC.NET.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/bin/Debug/netcoreapp3.0/WebCoreMVC.NET.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/obj/Debug/netcoreapp3.0/WebCoreMVC.NET.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/obj/Debug/netcoreapp3.0/WebCoreMVC.NET.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/obj/Debug/netcoreapp3.0/WebCoreMVC.NET.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/obj/Debug/netcoreapp3.0/WebCoreMVC.NET.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/obj/Debug/netcoreapp3.0/WebCoreMVC.NET.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/obj/Debug/netcoreapp3.0/WebCoreMVC.NET.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/obj/Debug/netcoreapp3.0/WebCoreMVC.NET.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/obj/Debug/netcoreapp3.0/WebCoreMVC.NET.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/obj/Debug/netcoreapp3.0/WebCoreMVC.NET.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/obj/Debug/netcoreapp3.0/WebCoreMVC.NET.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/obj/WebCoreMVC.NET.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3_Client/WebCoreMVC.NET/obj/WebCoreMVC.NET.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1URlRWDQyRoohXI1tr8uMZ3sl6X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ApplicationServer.Controllers" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\VALERA\source\repos\Prebiusta\Semester_Project_3\SEP3_DataLayer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="ProjectControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SprintRestService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApplicationServer.Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ApplicationServer.Testing" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationServer.Testing.ProjectControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectControllerTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SprintRestService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApplicationServer.Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ApplicationServer.Testing" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationServer.Testing.ProjectControllerTest" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SprintRestService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ApplicationServer.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProjectControllerTest.create" />
+        <item itemvalue="JUnit.ProjectControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e728597b-84c1-4a2c-a660-d314c6ffbb3d" name="Default Changelist" comment="" />
+      <created>1575327280578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575327280578</updated>
+      <workItem from="1575327282032" duration="24000" />
+      <workItem from="1575327325914" duration="71000" />
+      <workItem from="1575327422772" duration="1305000" />
+      <workItem from="1575383445520" duration="8766000" />
+      <workItem from="1575458121062" duration="612000" />
+      <workItem from="1575534634817" duration="10533000" />
+      <workItem from="1575627921394" duration="2205000" />
+      <workItem from="1575910688348" duration="361000" />
+      <workItem from="1575968885333" duration="3992000" />
+      <workItem from="1576157143298" duration="673000" />
+      <workItem from="1576174040737" duration="642000" />
+      <workItem from="1576188624695" duration="685000" />
+      <workItem from="1576189327839" duration="4593000" />
+      <workItem from="1576239518595" duration="2553000" />
+      <workItem from="1576257837723" duration="2626000" />
+      <workItem from="1576270122067" duration="730000" />
+      <workItem from="1576335039992" duration="1820000" />
+      <workItem from="1576437766763" duration="3140000" />
+      <workItem from="1576508721840" duration="1906000" />
+      <workItem from="1576530973212" duration="1293000" />
+      <workItem from="1576534312330" duration="4705000" />
+      <workItem from="1576579106427" duration="2138000" />
+      <workItem from="1576596059523" duration="1706000" />
+      <workItem from="1576607885941" duration="1000" />
+      <workItem from="1576608477154" duration="817000" />
+      <workItem from="1576745044832" duration="3427000" />
+      <workItem from="1576752132833" duration="884000" />
+      <workItem from="1576798000543" duration="4407000" />
+      <workItem from="1576840289214" duration="247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
